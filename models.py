@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed May 29 01:26:04 2019
-@author: samuel
+
 """
 import numpy as np
 import pandas as pd 
