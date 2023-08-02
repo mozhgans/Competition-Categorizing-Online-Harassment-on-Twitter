@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed May 29 01:23:47 2019
-@author: samuel
+
 """
 import numpy as np
 import pandas as pd
@@ -12,8 +12,8 @@ import models as md
 
 def main():
     #Step 1: read the data
-    trainArch = '/home/samuel/Documents/SIMAH/Data/Train_data_compeition.csv'
-    testeArch = '/home/samuel/Documents/SIMAH/Data/Validation_data_competition.csv'
+    trainArch = '/home/mojgan/Documents/SIMAH/Data/Train_data_compeition.csv'
+    testeArch = '/home/mojgan/Documents/SIMAH/Data/Validation_data_competition.csv'
     #trainArchSize = 6374
     control = -1
     print('---------------------------------------------------')
